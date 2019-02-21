@@ -46,7 +46,7 @@ class NewMessageActivity : AppCompatActivity() {
     }
 
     private fun fetchUsers(){
-        val ref = FirebaseDatabase.getInstance().getReference("/Policy")
+        val ref = FirebaseDatabase.getInstance().getReference("/POLICY NUMBER")
         ref.addListenerForSingleValueEvent(object : ValueEventListener{
 
             override fun onDataChange(p0: DataSnapshot) {

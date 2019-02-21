@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "266263028307",
-    "firebase_url": "https://database-358c7.firebaseio.com",
-    "project_id": "database-358c7",
-    "storage_bucket": "database-358c7.appspot.com"
+    "project_number": "1077525763774",
+    "firebase_url": "https://insurancerenewal-a3462.firebaseio.com",
+    "project_id": "insurancerenewal-a3462",
+    "storage_bucket": "insurancerenewal-a3462.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:266263028307:android:da34bd95c60bd49f",
+        "mobilesdk_app_id": "1:1077525763774:android:da34bd95c60bd49f",
         "android_client_info": {
           "package_name": "com.example.ajay_saba.insurancerenewal"
         }
       },
       "oauth_client": [
         {
-          "client_id": "266263028307-m6rput17gcbv5bedjhpn74jqt2a0trd3.apps.googleusercontent.com",
+          "client_id": "1077525763774-anuaslbelkql70u1n672n7a7bjkhet6t.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDjbBgWyUp-BarbtSGjWXrhDHk2Nq2LEZ4"
+          "current_key": "AIzaSyAlVagdqrRZdZyEl6iZE48rF4EqSBakuJU"
         }
       ],
       "services": {
